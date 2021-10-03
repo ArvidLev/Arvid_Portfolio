@@ -13,3 +13,6 @@ I used a logistic regression model and evaluated its performance and its coeffic
 To do this I used,
 * Tidyverse to manipulate, clean and visualize the data.
 * Tidymodels to analyze and train the data.
+
+# [Project 3: Data Visualization With Tableau: Project Overview](https://public.tableau.com/views/Book1_16332383257090/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+This project I used Tableau to create dashboards for the Esports data created in project 2. I made a dashboard where you can select a team from any of the 4 big regions and then you select a specfic game of theirs and get more game specific data visualized.
