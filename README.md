@@ -1,4 +1,6 @@
 # Arvid_Portfolio
+# [Project 6: Computer Vision with Python: MNIST Kaggle](https://github.com/ArvidLev/MNIST-Kaggle)
+For this small project I was trying to accurately predict the famous MNIST digit data set using CNN. Using Tensorflow and Keras, I used preprocessing, image augmentation, pooling and dropout to create a CNN that got 0.978 on the kaggle competition, Digit Recognizer, without taking very long to train. Improvements that can be made are experimenting with more augmentations, creating more layers, tuning the optimizer and going for more epochs.
 # [Project 5: Data Analysis with Python: Heart Disease](https://www.kaggle.com/arvidlevander/heartdisease)
 The goal of this project was mainly to practice feature engineering in Python using some recently learned methods.
 In this kernel I have used mathematical column transformations, PCA inspired column transformations and clustering using KMeans. 
