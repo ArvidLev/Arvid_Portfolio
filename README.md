@@ -1,4 +1,8 @@
 # Arvid_Portfolio
+# [Project 7: Computer Vision with Python: Cats Vs Dogs](https://github.com/ArvidLev/CatVSDogs)
+For this project I am using convultional neural networks to create a model that can classify if pictures of dogs and cats. For this I am using Python with Tensorflow. For this I am using techniques such as preprocessing, data augmentation, transfer learning and fine tuning.
+![image](https://user-images.githubusercontent.com/89865352/139783326-d8285333-320c-4fb6-b789-03826510f5df.png)
+
 # [Project 6: Computer Vision with Python: MNIST Kaggle](https://github.com/ArvidLev/MNIST-Kaggle)
 For this small project I was trying to accurately predict the famous MNIST digit data set using CNN. Using Tensorflow and Keras, I used preprocessing, image augmentation, pooling and dropout to create a CNN that got 0.978 on the kaggle competition, Digit Recognizer, without taking very long to train. Improvements that can be made are experimenting with more augmentations, creating more layers, tuning the optimizer and going for more epochs.
 # [Project 5: Data Analysis with Python: Heart Disease](https://www.kaggle.com/arvidlevander/heartdisease)
