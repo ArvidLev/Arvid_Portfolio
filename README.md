@@ -10,8 +10,7 @@ For this project we are trying classify the sentiment of tweets regarding Covid-
 -Dropout
 There will also be some data cleaning and reduction of vocabulary to increase the performance of our models.
 We will achieve about 88% accuracy on the validation data.
-![image](https://user-images.githubusercontent.com/89865352/140621622-ca3c73ae-907c-446b-a3e8-a36e7b3dd8a2.png)
-
+![image](https://user-images.githubusercontent.com/89865352/140621655-215be6ff-cfb7-4de1-a56e-6fb58502a973.png)
 # [Project 7: Computer Vision with Python: Cats Vs Dogs](https://github.com/ArvidLev/CatVSDogs)
 For this project I am using convultional neural networks to create a model that can classify if pictures of dogs and cats. For this I am using Python with Tensorflow. For this I am using techniques such as preprocessing, data augmentation, transfer learning and fine tuning.
 ![image](https://user-images.githubusercontent.com/89865352/139783326-d8285333-320c-4fb6-b789-03826510f5df.png)
