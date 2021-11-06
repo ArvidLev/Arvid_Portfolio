@@ -1,6 +1,7 @@
 # Arvid_Portfolio
 # [Project 8: NLP with Python: Covid-19 Tweets](https://www.kaggle.com/arvidlevander/covid-19-nlp)
-For this project we are trying classify the sentiment of tweets regarding Covid-19. \ We are going to use Tensorflow and Keras to perform NLP, more specifically we will be using techinques such as:
+For this project we are trying classify the sentiment of tweets regarding Covid-19. 
+We are going to use Tensorflow and Keras to perform NLP, more specifically we will be using techinques such as:
  - Tokenizing
  - Padding
  - Embedding
