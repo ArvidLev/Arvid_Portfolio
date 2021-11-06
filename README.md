@@ -8,6 +8,7 @@ For this project we are trying classify the sentiment of tweets regarding Covid-
  - LSTM
  - Convolutions
  - Dropout
+
 There will also be some data cleaning and reduction of vocabulary to increase the performance of our models.
 We will achieve about 88% accuracy on the validation data.
 ![image](https://user-images.githubusercontent.com/89865352/140621655-215be6ff-cfb7-4de1-a56e-6fb58502a973.png)
