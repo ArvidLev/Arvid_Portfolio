@@ -1,7 +1,7 @@
 # Arvid_Portfolio
 # [Project 9: PCA](https://github.com/ArvidLev/PCA)
 For this short project I went over the theory behind Principal Component Analysis and created my own PCA function.
-
+![image](https://github.com/ArvidLev/Arvid_Portfolio/blob/main/image/PCA_PCA.ipynb%20at%20main%20%C2%B7%20ArvidLev_PCA%20%C2%B7%20GitHub.png)
 # [Project 8: NLP with Python: Covid-19 Tweets](https://www.kaggle.com/arvidlevander/covid-19-nlp)
 For this project we are trying classify the sentiment of tweets regarding Covid-19. 
 We are going to use Tensorflow and Keras to perform NLP, more specifically we will be using techinques such as:
