@@ -22,11 +22,14 @@ For this project I am using convultional neural networks to create a model that 
 
 # [Project 6: Computer Vision with Python: MNIST Kaggle](https://github.com/ArvidLev/MNIST-Kaggle)
 For this small project I was trying to accurately predict the famous MNIST digit data set using CNN. Using Tensorflow and Keras, I used preprocessing, image augmentation, pooling and dropout to create a CNN that got 0.978 on the kaggle competition, Digit Recognizer, without taking very long to train. Improvements that can be made are experimenting with more augmentations, creating more layers, tuning the optimizer and going for more epochs.
+![image](https://user-images.githubusercontent.com/89865352/148129154-df21ce85-e3d4-44f0-a82a-481cfc653ad5.png)
+
 # [Project 5: Data Analysis with Python: Heart Disease](https://www.kaggle.com/arvidlevander/heartdisease)
 The goal of this project was mainly to practice feature engineering in Python using some recently learned methods.
 In this kernel I have used mathematical column transformations, PCA inspired column transformations and clustering using KMeans. 
 The model used was XGBoost which I tuned using the Random Search Cross-validation. 
 The goal of the model is to accurately predict if someone has a heart disease.
+![image](https://user-images.githubusercontent.com/89865352/148130603-df4fa485-8fa0-44c8-8d62-1716a2d08610.png)
 
 # [Project 4: Data Analysis with Python: Wine Quality](https://github.com/ArvidLev/WineQuality)
 For this data analysis project I explored a wine quality dataset.
