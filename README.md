@@ -37,8 +37,12 @@ For this data analysis project I explored a wine quality dataset.
   - Binned target variable to create a classification problem instead of a regression problem
   - Used RandomForest, XGBoost and cross-validation to create a model.
   - Explored the feature importance of the models using their GINI scores
+ ![image](https://user-images.githubusercontent.com/89865352/148273477-b379a907-745d-4445-b5da-a7db764046b0.png)
+
 # [Project 3: Data Visualization with Tableau: Esport](https://public.tableau.com/views/Book1_16332383257090/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 This project I used Tableau to create dashboards for the Esports data created in project 2. I made a dashboard where you can select a team from any of the 4 big regions and then you select a specfic game of theirs and get more game specific data visualized.
+![image](https://user-images.githubusercontent.com/89865352/148276393-d9f5aca3-984b-4109-b99b-f7ea286eb1a1.png)
+
 
 # [Project 2: Exploratory Data Analysis with R: Esport](https://github.com/ArvidLev/LeagueOfLegends.git)
 For this project I worked on data from esport games, more specifically League Of Legends esport.
@@ -47,9 +51,13 @@ I used a logistic regression model and evaluated its performance and its coeffic
 To do this I used,
 * Tidyverse to manipulate, clean and visualize the data.
 * Tidymodels to analyze and train the data.
+![image](https://user-images.githubusercontent.com/89865352/148274962-fbff3140-2c66-40fb-8a18-76da445aebb6.png)
+
+
 # [Project 1: Data Analysis with R: Housing Prices Kaggle](https://github.com/ArvidLev/Housing_SalePrice_Kaggle)
 For this project I estimated SalePrice of houses using methods from tidymodels such as rsampel, recipe, workflow, parsnip, tune and yardstick.
 * Cleaned and preproccesed data by imputing, dummy variables, remove near zero variance columns.
 * Used ElasticNet, MARS and RandomForest which I tuned using 5-fold crossvalidation
 * Selected the best model using RMSE
+![image](https://user-images.githubusercontent.com/89865352/148275547-6cebb49d-78ed-42fb-93a4-055885fc542c.png)
 
