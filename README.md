@@ -1,6 +1,6 @@
 # Arvid_Portfolio
 # [Project 10: Object Detection: Hand Signals](https://github.com/ArvidLev/ObjectDetectionHands)
-![image](https://github.com/ArvidLev/Arvid_Portfolio/blob/main/image/hand.png)
+![image](https://github.com/ArvidLev/Arvid_Portfolio/blob/main/image/thumbsup.png)
 For this project we trained a object detection model on 3 hand signals. Hello (wave), good (thumbs up), and small (pinch). Using the Tensorflow Object Detection API, transforming images and annotations to TFrecords, and evaluating model using tensorboard.
 # [Project 9: PCA](https://github.com/ArvidLev/PCA)
 For this short project I went over the theory behind Principal Component Analysis and created my own PCA function.
