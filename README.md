@@ -1,6 +1,7 @@
 # Arvid_Portfolio
 # [Project 11: Image Classification: Traffic Signs](https://github.com/ArvidLev/TrafficSignFlax)
 ![image](https://github.com/ArvidLev/TrafficSignFlax/assets/89865352/d3050b1c-a095-4dbd-add3-643ce9e4e09a)
+
 In this project we trained an image classifier on traffic signs. We used JAX, FLAX, and PyTorch as the main libraries. Designed a VGG with FLAX, created dataloader with PyTorch, used JAX to accelerate training with GPU.
 # [Project 10: Object Detection: Hand Signals](https://github.com/ArvidLev/ObjectDetectionHands)
 ![image](https://github.com/ArvidLev/Arvid_Portfolio/blob/main/image/thumbsup.png)
