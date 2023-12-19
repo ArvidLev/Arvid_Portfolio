@@ -1,4 +1,12 @@
 # Arvid_Portfolio
+
+# [Project 12: Viscous Burger's Equation Using Spectral Method With Fourier Transforms](https://github.com/ArvidLev/Viscous-Burger-s-Equation)
+![image](https://github.com/ArvidLev/Arvid_Portfolio/assets/89865352/6fa6ea0f-4cbd-4be7-aa84-0054adc521d4)
+
+This project was my final project of AMATH 581, Scientific Computing, at the University of Washington. The goal of this project was to get a numerical solution to the viscous Burger's equation. The viscous Burger's equation is a nonlinear partial differential equation. While such an equation had previously forced me to use Newton's method, I can now simply use the Spetral method with Fourier series. Using Fourier transforms I got a value for the partial derivative with respect to time. From there I used Forward Euler and compared the numerical solution to the analytic one and determining the order of the method. The method ended up being 1st order which is what I wanted since Forward Euler is 1st so that showed that our partial derivative was very accurate.
+
+All coding was done with Python, using Numpy and matplotlib.
+
 # [Project 11: Image Classification: Traffic Signs](https://github.com/ArvidLev/TrafficSignFlax)
 ![image](https://github.com/ArvidLev/TrafficSignFlax/assets/89865352/d3050b1c-a095-4dbd-add3-643ce9e4e09a)
 
