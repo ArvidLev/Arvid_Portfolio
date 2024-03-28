@@ -1,7 +1,6 @@
 # Arvid_Portfolio
 
 # [Project 13: Chatbot with Agents](https://github.com/ArvidLev/ChatBot)
-![image.png](attachment:image.png)
 This project was part of the course EE 596, Large Language Models. Building on Chat-GPT I created a chatbot that would only answer questions relevant to a specific textbook. It also handles greetings and obnoxious prompts. To accomplish that I created agents which used embeddings, cosine-simiarity, and prompt engineering. 
 
 # [Project 12: Viscous Burger's Equation Using Spectral Method With Fourier Transforms](https://github.com/ArvidLev/Viscous-Burger-s-Equation)
