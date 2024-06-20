@@ -1,5 +1,8 @@
 # Arvid_Portfolio
 
+# [Project 14: Optimizer Comparison](https://github.com/ArvidLev/optimizer_comparison)
+We compare four popular optimization algorithms - Stochastic Gradient Descent (SGD), Adaptive Gradient Method (Adagrad), Root Mean Squared Propagation (RMSProp), and Adaptive Moment Estimation (ADAM) - across three large publicly available datasets: CIFAR-10 for image classification, and SST-2 and MNLI for natural language processing tasks.
+
 # [Project 13: Chatbot with Agents](https://github.com/ArvidLev/ChatBot)
 This project was part of the course EE 596, Large Language Models. Building on Chat-GPT I created a chatbot that would only answer questions relevant to a specific textbook. It also handles greetings and obnoxious prompts. To accomplish that I created agents which used embeddings, cosine-simiarity, and prompt engineering. 
 
